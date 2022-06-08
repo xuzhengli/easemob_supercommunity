@@ -34,7 +34,7 @@ public interface AppServerApi {
 //http://39.97.166.221: 阿里云正式地址
     // 本机 192.168.137.1  192.168.1.108
 //    String HOST = "http://"+ EaseConstant.PREFIX_APP_SERVER+":12503";
-    String HOST = "http://39.97.166.221" + ":9000";
+    String HOST = "http://121.199.27.63" + ":8888";
     String BASE_PATH = "/";
     String BASE_URL = HOST + BASE_PATH;
 
